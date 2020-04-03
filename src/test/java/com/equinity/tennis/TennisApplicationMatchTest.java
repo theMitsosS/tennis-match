@@ -20,7 +20,7 @@ import static org.powermock.api.mockito.PowerMockito.when;
 
 @RunWith(PowerMockRunner.class)
 @PrepareForTest(ScoreCalculator.class)
-public class TennisMatchTest {
+public class TennisApplicationMatchTest {
 
     TennisMatch match;
 

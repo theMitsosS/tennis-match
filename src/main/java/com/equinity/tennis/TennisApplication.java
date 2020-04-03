@@ -6,7 +6,7 @@ import static com.equinity.tennis.constants.TennisMatchConstants.CHOOSE_THE_PLAY
 import static com.equinity.tennis.constants.TennisMatchConstants.INVALID_INPUT;
 import static com.equinity.tennis.constants.TennisMatchConstants.TENNIS_MATCH_GREETING;
 
-public class Tennis {
+public class TennisApplication {
     public static void main(String[] args) {
 
         TennisMatch match = new TennisMatch();
